@@ -1,8 +1,6 @@
 ## Boas vindas ao meu perfil
 
-Meu nome é Emyllie Eifler
-
- -Estou estudando no Alura
+Meu nome é Emyllie Eifle
 
  - Estou me desenvolvendo na linguagem Javascript
 
