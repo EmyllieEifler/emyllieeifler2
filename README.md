@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil
 
-Meu nome é Emyllie Eifle
+Meu nome é Emyllie Eifler
 
  - Estou me desenvolvendo na linguagem Javascript
 
